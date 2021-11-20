@@ -1,7 +1,6 @@
 ### Oi! Sou a Ana Cornachi 👋
 
 - 🔭 Sou estudante de Desenvovimento Web
-- 🌱 Atualmente estou estudando ReactJS, NextJS e Typescript
 - 😄 Pronome: Ela/Dela
 
 <div>
