@@ -1,8 +1,9 @@
-### Oi! Sou a Ana Cornachi 👋
+### Hi! I'm Ana Cornachi 👋 
 
-- 🔭 Sou estudante de Desenvovimento Web
-- 😄 Pronome: Ela/Dela
-- 💬 Idiomas fluentes: Português e Inglês 
+- 🔭 I'm a student of Web Development
+- 💛 I'm enthusiastic about React.js and Next.js
+- 😄 Pronoun: She/Her
+- 💬 Languages: Portuguese and English
 
 <div>
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=anacornachi&theme=omni&show_icons=true&count_private=true&hide=issues,contribs"/>
