@@ -6,7 +6,7 @@
 - 💬 Languages: Portuguese and English
 
 <div>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=anacornachi&theme=omni&show_icons=true&count_private=true&hide=issues,contribs"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=anacornachi&theme=omni&show_icons=true&count_private=true&hide=issues"/>
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacornachi&layout=compact&theme=omni"/>
 </div>
 
