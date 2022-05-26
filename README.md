@@ -1,6 +1,6 @@
 ### Hi! I'm Ana Cornachi 👋 
 
-- 🔭 I'm a student of Web Development
+- 🔭 I'm a Front End Developer
 - 💛 I'm enthusiastic about React.js and Next.js
 - 😄 Pronoun: She/Her
 - 💬 Languages: Portuguese and English
