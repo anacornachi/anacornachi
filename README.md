@@ -1,7 +1,6 @@
 ### Hi! I'm Ana Cornachi 👋 
 
 - 🔭 I'm a Full Stack Developer
-- 💛 I'm enthusiastic about React.js, React Native, Web3 and Blockchain
 - 😄 Pronoun: She/Her
 - 💬 Languages: Portuguese and English
 
